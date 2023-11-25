@@ -37,7 +37,7 @@ honest miner expected reward is : 100.0
 selfish miner expected reward is : 0.0
 ********************************************
 ```
-mi
+
 # Graph
 
 ![alt text](Output/Output_Figure_1.png)
