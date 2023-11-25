@@ -39,6 +39,8 @@ selfish miner expected reward is : 0.0
 ```
 <br>
 
+# Graph
+
 ![alt text](Output/Output_Figure_1.png)
 
 
