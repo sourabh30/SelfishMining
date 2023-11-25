@@ -1,0 +1,408 @@
+********************************************
+alpha is : 0.45
+gamma is : 0.5
+honest miners win block is : 2998
+selfish miners win block is : 3459
+total mined block is : 6457
+total stale block is : 3543
+honest miner revenue is : 46.430230757317645
+selfish miner revenue is : 53.56976924268236
+honest miner expected reward is : 55.0
+selfish miner expected reward is : 45.0
+********************************************
+********************************************
+alpha is : 0.0
+gamma is : 0
+honest miners win block is : 12996
+selfish miners win block is : 3462
+total mined block is : 16458
+total stale block is : -6458
+honest miner revenue is : 78.96463725847612
+selfish miner revenue is : 21.03536274152388
+honest miner expected reward is : 100.0
+selfish miner expected reward is : 0.0
+********************************************
+********************************************
+alpha is : 0.05
+gamma is : 0
+honest miners win block is : 9520
+selfish miners win block is : 0
+total mined block is : 9520
+total stale block is : 480
+honest miner revenue is : 100.0
+selfish miner revenue is : 0.0
+honest miner expected reward is : 95.0
+selfish miner expected reward is : 5.0
+********************************************
+********************************************
+alpha is : 0.1
+gamma is : 0
+honest miners win block is : 8931
+selfish miners win block is : 17
+total mined block is : 8948
+total stale block is : 1052
+honest miner revenue is : 99.81001341081806
+selfish miner revenue is : 0.1899865891819401
+honest miner expected reward is : 90.0
+selfish miner expected reward is : 10.0
+********************************************
+********************************************
+alpha is : 0.15
+gamma is : 0
+honest miners win block is : 8446
+selfish miners win block is : 73
+total mined block is : 8519
+total stale block is : 1481
+honest miner revenue is : 99.14309191219627
+selfish miner revenue is : 0.8569080878037328
+honest miner expected reward is : 85.0
+selfish miner expected reward is : 15.0
+********************************************
+********************************************
+alpha is : 0.2
+gamma is : 0
+honest miners win block is : 7934
+selfish miners win block is : 102
+total mined block is : 8036
+total stale block is : 1964
+honest miner revenue is : 98.73071179691388
+selfish miner revenue is : 1.2692882030861126
+honest miner expected reward is : 80.0
+selfish miner expected reward is : 20.0
+********************************************
+********************************************
+alpha is : 0.25
+gamma is : 0
+honest miners win block is : 7373
+selfish miners win block is : 201
+total mined block is : 7574
+total stale block is : 2426
+honest miner revenue is : 97.34618431476102
+selfish miner revenue is : 2.653815685238975
+honest miner expected reward is : 75.0
+selfish miner expected reward is : 25.0
+********************************************
+********************************************
+alpha is : 0.3
+gamma is : 0
+honest miners win block is : 6793
+selfish miners win block is : 392
+total mined block is : 7185
+total stale block is : 2815
+honest miner revenue is : 94.54418928322895
+selfish miner revenue is : 5.455810716771051
+honest miner expected reward is : 70.0
+selfish miner expected reward is : 30.0
+********************************************
+********************************************
+alpha is : 0.35
+gamma is : 0
+honest miners win block is : 5566
+selfish miners win block is : 1522
+total mined block is : 7088
+total stale block is : 2912
+honest miner revenue is : 78.52708803611738
+selfish miner revenue is : 21.47291196388262
+honest miner expected reward is : 65.0
+selfish miner expected reward is : 35.0
+********************************************
+********************************************
+alpha is : 0.4
+gamma is : 0
+honest miners win block is : 5295
+selfish miners win block is : 1191
+total mined block is : 6486
+total stale block is : 3514
+honest miner revenue is : 81.63737280296021
+selfish miner revenue is : 18.362627197039778
+honest miner expected reward is : 60.0
+selfish miner expected reward is : 40.0
+********************************************
+********************************************
+alpha is : 0.45
+gamma is : 0
+honest miners win block is : 3133
+selfish miners win block is : 2847
+total mined block is : 5980
+total stale block is : 4020
+honest miner revenue is : 52.391304347826086
+selfish miner revenue is : 47.608695652173914
+honest miner expected reward is : 55.0
+selfish miner expected reward is : 45.0
+********************************************
+********************************************
+alpha is : 0.5
+gamma is : 0
+honest miners win block is : 185
+selfish miners win block is : 94
+total mined block is : 279
+total stale block is : 9721
+honest miner revenue is : 66.30824372759857
+selfish miner revenue is : 33.691756272401435
+honest miner expected reward is : 50.0
+selfish miner expected reward is : 50.0
+********************************************
+********************************************
+alpha is : 0.0
+gamma is : 0.5
+honest miners win block is : 10000
+selfish miners win block is : 0
+total mined block is : 10000
+total stale block is : 0
+honest miner revenue is : 100.0
+selfish miner revenue is : 0.0
+honest miner expected reward is : 100.0
+selfish miner expected reward is : 0.0
+********************************************
+********************************************
+alpha is : 0.05
+gamma is : 0.5
+honest miners win block is : 9454
+selfish miners win block is : 53
+total mined block is : 9507
+total stale block is : 493
+honest miner revenue is : 99.44251604081204
+selfish miner revenue is : 0.5574839591879668
+honest miner expected reward is : 95.0
+selfish miner expected reward is : 5.0
+********************************************
+********************************************
+alpha is : 0.1
+gamma is : 0.5
+honest miners win block is : 8887
+selfish miners win block is : 165
+total mined block is : 9052
+total stale block is : 948
+honest miner revenue is : 98.17719840919133
+selfish miner revenue is : 1.822801590808661
+honest miner expected reward is : 90.0
+selfish miner expected reward is : 10.0
+********************************************
+********************************************
+alpha is : 0.15
+gamma is : 0.5
+honest miners win block is : 8385
+selfish miners win block is : 282
+total mined block is : 8667
+total stale block is : 1333
+honest miner revenue is : 96.74627898926964
+selfish miner revenue is : 3.2537210107303567
+honest miner expected reward is : 85.0
+selfish miner expected reward is : 15.0
+********************************************
+********************************************
+alpha is : 0.2
+gamma is : 0.5
+honest miners win block is : 7756
+selfish miners win block is : 570
+total mined block is : 8326
+total stale block is : 1674
+honest miner revenue is : 93.15397549843863
+selfish miner revenue is : 6.846024501561374
+honest miner expected reward is : 80.0
+selfish miner expected reward is : 20.0
+********************************************
+********************************************
+alpha is : 0.25
+gamma is : 0.5
+honest miners win block is : 7180
+selfish miners win block is : 805
+total mined block is : 7985
+total stale block is : 2015
+honest miner revenue is : 89.91859737006888
+selfish miner revenue is : 10.08140262993112
+honest miner expected reward is : 75.0
+selfish miner expected reward is : 25.0
+********************************************
+********************************************
+alpha is : 0.3
+gamma is : 0.5
+honest miners win block is : 6413
+selfish miners win block is : 1169
+total mined block is : 7582
+total stale block is : 2418
+honest miner revenue is : 84.58190451068319
+selfish miner revenue is : 15.418095489316801
+honest miner expected reward is : 70.0
+selfish miner expected reward is : 30.0
+********************************************
+********************************************
+alpha is : 0.35
+gamma is : 0.5
+honest miners win block is : 5698
+selfish miners win block is : 1601
+total mined block is : 7299
+total stale block is : 2701
+honest miner revenue is : 78.06548842307166
+selfish miner revenue is : 21.934511576928344
+honest miner expected reward is : 65.0
+selfish miner expected reward is : 35.0
+********************************************
+********************************************
+alpha is : 0.4
+gamma is : 0.5
+honest miners win block is : 4277
+selfish miners win block is : 2737
+total mined block is : 7014
+total stale block is : 2986
+honest miner revenue is : 60.97804391217565
+selfish miner revenue is : 39.02195608782435
+honest miner expected reward is : 60.0
+selfish miner expected reward is : 40.0
+********************************************
+********************************************
+alpha is : 0.45
+gamma is : 0.5
+honest miners win block is : 3475
+selfish miners win block is : 3185
+total mined block is : 6660
+total stale block is : 3340
+honest miner revenue is : 52.17717717717718
+selfish miner revenue is : 47.82282282282282
+honest miner expected reward is : 55.0
+selfish miner expected reward is : 45.0
+********************************************
+********************************************
+alpha is : 0.5
+gamma is : 0.5
+honest miners win block is : 614
+selfish miners win block is : 3155
+total mined block is : 3769
+total stale block is : 6231
+honest miner revenue is : 16.29079331387636
+selfish miner revenue is : 83.70920668612364
+honest miner expected reward is : 50.0
+selfish miner expected reward is : 50.0
+********************************************
+********************************************
+alpha is : 0.0
+gamma is : 1
+honest miners win block is : 10000
+selfish miners win block is : 0
+total mined block is : 10000
+total stale block is : 0
+honest miner revenue is : 100.0
+selfish miner revenue is : 0.0
+honest miner expected reward is : 100.0
+selfish miner expected reward is : 0.0
+********************************************
+********************************************
+alpha is : 0.05
+gamma is : 1
+honest miners win block is : 9458
+selfish miners win block is : 87
+total mined block is : 9545
+total stale block is : 455
+honest miner revenue is : 99.08852802514406
+selfish miner revenue is : 0.9114719748559456
+honest miner expected reward is : 95.0
+selfish miner expected reward is : 5.0
+********************************************
+********************************************
+alpha is : 0.1
+gamma is : 1
+honest miners win block is : 8823
+selfish miners win block is : 316
+total mined block is : 9139
+total stale block is : 861
+honest miner revenue is : 96.54229127913338
+selfish miner revenue is : 3.4577087208666155
+honest miner expected reward is : 90.0
+selfish miner expected reward is : 10.0
+********************************************
+********************************************
+alpha is : 0.15
+gamma is : 1
+honest miners win block is : 8155
+selfish miners win block is : 649
+total mined block is : 8804
+total stale block is : 1196
+honest miner revenue is : 92.62835074965925
+selfish miner revenue is : 7.371649250340755
+honest miner expected reward is : 85.0
+selfish miner expected reward is : 15.0
+********************************************
+********************************************
+alpha is : 0.2
+gamma is : 1
+honest miners win block is : 7477
+selfish miners win block is : 1040
+total mined block is : 8517
+total stale block is : 1483
+honest miner revenue is : 87.78912762709874
+selfish miner revenue is : 12.210872372901257
+honest miner expected reward is : 80.0
+selfish miner expected reward is : 20.0
+********************************************
+********************************************
+alpha is : 0.25
+gamma is : 1
+honest miners win block is : 6773
+selfish miners win block is : 1488
+total mined block is : 8261
+total stale block is : 1739
+honest miner revenue is : 81.98765282653432
+selfish miner revenue is : 18.01234717346568
+honest miner expected reward is : 75.0
+selfish miner expected reward is : 25.0
+********************************************
+********************************************
+alpha is : 0.3
+gamma is : 1
+honest miners win block is : 5832
+selfish miners win block is : 2149
+total mined block is : 7981
+total stale block is : 2019
+honest miner revenue is : 73.07354968049117
+selfish miner revenue is : 26.92645031950883
+honest miner expected reward is : 70.0
+selfish miner expected reward is : 30.0
+********************************************
+********************************************
+alpha is : 0.35
+gamma is : 1
+honest miners win block is : 5396
+selfish miners win block is : 2388
+total mined block is : 7784
+total stale block is : 2216
+honest miner revenue is : 69.32168550873587
+selfish miner revenue is : 30.678314491264132
+honest miner expected reward is : 65.0
+selfish miner expected reward is : 35.0
+********************************************
+********************************************
+alpha is : 0.4
+gamma is : 1
+honest miners win block is : 4450
+selfish miners win block is : 3045
+total mined block is : 7495
+total stale block is : 2505
+honest miner revenue is : 59.37291527685124
+selfish miner revenue is : 40.62708472314876
+honest miner expected reward is : 60.0
+selfish miner expected reward is : 40.0
+********************************************
+********************************************
+alpha is : 0.45
+gamma is : 1
+honest miners win block is : 2644
+selfish miners win block is : 4082
+total mined block is : 6726
+total stale block is : 3274
+honest miner revenue is : 39.31013975617009
+selfish miner revenue is : 60.68986024382992
+honest miner expected reward is : 55.0
+selfish miner expected reward is : 45.0
+********************************************
+********************************************
+alpha is : 0.5
+gamma is : 1
+honest miners win block is : 75
+selfish miners win block is : 129
+total mined block is : 204
+total stale block is : 9796
+honest miner revenue is : 36.76470588235294
+selfish miner revenue is : 63.23529411764706
+honest miner expected reward is : 50.0
+selfish miner expected reward is : 50.0
+********************************************

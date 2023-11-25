@@ -15,9 +15,9 @@ from sm.learning_automata.symmetric_variable_depth_hybrid import SymmetricVariab
 from sm.learning_automata.asymmetric_variable_depth_hybrid import AsymmetricVariableDepthHybrid  # NOQA
 
 
-class NikSelfishMining:
+class SelfishMining:
     """
-    NikSelfishMining class represents a simulation of selfish mining in a blockchain network. 
+    SelfishMining class represents a simulation of selfish mining in a blockchain network. 
     It models selfish mining behavior and allows for various simulations and analyses.
     """    
     
